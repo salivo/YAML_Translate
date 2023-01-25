@@ -1,6 +1,28 @@
-version: 2.0
+version: 1
+float_number: 3.5
 when_it_on: "i'm a test yaml file"
 rule:
   messages: "hello"
   off_ms: "notation"
   number: 10.9
+test_list:
+  - "hello"
+  - ""
+  - "i'm a list"
+  - 10.3
+  - 19
+  - "nubers don't problem"
+array:
+  list_in_array:
+    - ""
+    - "HEY I'm list in array"
+    - "I know that cool"
+    - "I don't speak English"
+    - ""
+    - 10
+    - 67.3
+    - "nubers don't problem too"
+
+#========================================================#
+#         here are all functions that work exactly       #
+#========================================================#
